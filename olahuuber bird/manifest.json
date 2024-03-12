@@ -1,0 +1,13 @@
+{
+  "name" : "muzzzzlim",
+  "version" : "0.0.1",
+  "description": "download if you want 73 hoor pari when you die",
+  "manifest_version" : 3,
+  "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "128": "logo.png"
+      }
+  },
+  "permissions" : ["activeTab"]
+}
